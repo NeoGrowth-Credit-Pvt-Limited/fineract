@@ -107,6 +107,7 @@ rat {
     '**/.gitignore',
     '**/.gitkeep',
 	'**/*.iml',
+	'**/eclipse.ini',
 	//Notice files
 	'**/NOTICE_RELEASE',
 	'**/NOTICE_SOURCE',	
